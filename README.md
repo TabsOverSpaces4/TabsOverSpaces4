@@ -1,3 +1,6 @@
+![For Linkedin](https://user-images.githubusercontent.com/78035291/135406416-ee6ec918-1377-4875-a545-fd0e989e6fb5.png)
+
+
 ### Hi there 👋, Harsh Gupta here.
 #### Always learning
 
