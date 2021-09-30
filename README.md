@@ -1,4 +1,5 @@
-<img src=”https://user-images.githubusercontent.com/78035291/135406416-ee6ec918-1377-4875-a545-fd0e989e6fb5.png” alt=”horizon hero banner”/>
+![For Linkedin](https://user-images.githubusercontent.com/78035291/135407339-d05ded25-d0b6-40b8-a4e1-c9d15834870a.png)
+
 
 ### Hi there 👋, Harsh Gupta here.
 #### Always learning
