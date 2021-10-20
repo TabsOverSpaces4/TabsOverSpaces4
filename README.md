@@ -8,7 +8,7 @@ A 3rd year student pursuing a B-tech degree in computer science and specializing
 
 Skills: Flutter / AWS / C++ / React / Python / Linux
 
-- 🔭 I’m currently working on Diversifying my knowledge. 
+- 🔭 I’m currently working on getting myself on the other side of the [Dunning-Kruger effect](https://expertprogrammanagement.com/2019/02/dunning-kruger-effect/). 
 - 🌱 I’m currently learning MERN 
 
 
