@@ -1,10 +1,11 @@
 ![For Linkedin](https://user-images.githubusercontent.com/78035291/135407339-d05ded25-d0b6-40b8-a4e1-c9d15834870a.png)
 
 
-### Hi there 👋, Harsh Gupta here.
-#### Always learning
+### Howdy 🤠, Harsh Gupta here.
 
-A 3rd year student pursuing a B-tech degree in computer science and specializing in cloud computing, who's additionally looking to diversify his portfolio in the tech space.
+A final year student pursuing a B-tech degree in computer science and specializing in cloud computing, who's additionally looking to diversify his portfolio in the tech space.
+
+#### Always learning
 
 Skills: Flutter / AWS / C++ / React / Python / Linux
 
