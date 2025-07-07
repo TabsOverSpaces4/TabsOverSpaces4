@@ -1,16 +1,60 @@
-![For Linkedin](https://user-images.githubusercontent.com/78035291/135407339-d05ded25-d0b6-40b8-a4e1-c9d15834870a.png)
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 
+```js
+import LearningDeveloper from 'TabsOverSpaces4';
 
-### Howdy 🤠, Harsh Gupta here.
+class Bio extends SoftwareDeveloper {
+  name     = 'Harsh Gupta';
+  title    = 'Software Development Engineer';
+  company  = 'Crewscale (Builder.ai | Beanbag.ai)';
+  location = 'Bangalore, Karnataka';
+  email    = 'harshworks2401@gmail.com';
+  phone    = '+91 8095275610';
+  website  = 'tabsoverspaces4.github.io';
+  education = {
+    current: 'Duke University - Master\'s in Engineering Management (Aug 2025)',
+    bachelor: 'SRM Institute of Science and Technology - Computer Science Engineering (CGPA: 8.90)'
+  };
+}
 
-A Tech enthusiast with a B-tech degree in computer science and specialising in cloud computing, who's additionally looking to diversify his portfolio in the tech space.
+class Skills extends SoftwareDeveloper {
+  languages  = ['JavaScript', 'Python', 'C++', 'HTML/CSS', 'Dart', 'SQL'];
+  databases  = ['MongoDB', 'Firebase'];
+  frameworks = ['React', 'React Native', 'Flutter', 'NodeJS'];
+  cloud      = ['AWS', 'GCP'];
+  tools      = ['Git', 'Docker', 'Puppeteer', 'CI/CD Pipelines', 'REST API'];
+  certifications = ['React Native', 'ReactJS', 'JavaScript', 'AWS Academy Graduate', 'GCP', 'DBMS'];
+}
 
-#### Always learning
-
-Skills: Flutter / AWS / C++ / React / Python / Linux
-
-- 🔭 I’m currently working on getting myself on the other side of the [Dunning-Kruger effect](https://expertprogrammanagement.com/2019/02/dunning-kruger-effect/). 
-- 🌱 I’m currently learning MERN 
-
-
-[<img src='https://github.githubassets.com/images/modules/logos_page/Octocat.png' alt='github' height='40'>](https://github.com/TabsOverSpaces4 )  [<img src='https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png' alt='twitter' height='40'>](https://twitter.com/HarshGu41333165)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCcvbuhqXW0vlOu52ey_-r1w/featured)  
+class Experience extends SoftwareDeveloper {
+  current = {
+    role: 'Software Development Engineer',
+    company: 'Crewscale (Builder.ai | Beanbag.ai)',
+    duration: 'July 2024 – Present',
+    location: 'Bangalore, Karnataka'
+  };
+  
+  previousRoles = [
+    {
+      role: 'Software Engineer',
+      company: 'Intelliflow.ai',
+      duration: 'Jun 2023 – Apr 2024',
+      location: 'Bangalore, Karnataka'
+    },
+    {
+      role: 'Web / Application Developer (Intern)',
+      company: 'Kredx',
+      duration: 'Jun 2022 – Sep 2022',
+      location: 'Bangalore, Karnataka'
+    },
+    {
+      role: 'Cloud Engineer (Intern)',
+      company: 'Capgemini India',
+      duration: 'Aug 2021 – Dec 2021',
+      location: 'Bangalore, Karnataka'
+    }
+  ];
+}
+```
