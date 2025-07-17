@@ -25,29 +25,4 @@ class Skills extends SoftwareDeveloper {
   tools      = ['Git', 'Docker', 'Puppeteer', 'CI/CD Pipelines', 'REST API'];
   certifications = ['React Native', 'ReactJS', 'JavaScript', 'AWS Academy Graduate', 'GCP', 'DBMS'];
 }
-
-class Experience extends SoftwareDeveloper {
-  previousRoles = [
-    {
-      role: 'Software Development Engineer',
-      company: 'Crewscale (Builder.ai | Beanbag.ai)',
-      duration: 'July 2024 – Present',
-    },
-    {
-      role: 'Software Engineer',
-      company: 'Intelliflow.ai',
-      duration: 'Jun 2023 – Apr 2024',
-    },
-    {
-      role: 'Web / Application Developer (Intern)',
-      company: 'Kredx',
-      duration: 'Jun 2022 – Sep 2022',
-    },
-    {
-      role: 'Cloud Engineer (Intern)',
-      company: 'Capgemini India',
-      duration: 'Aug 2021 – Dec 2021',
-    }
-  ];
-}
 ```
