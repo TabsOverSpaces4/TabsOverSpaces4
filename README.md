@@ -8,7 +8,7 @@ import LearningDeveloper from 'TabsOverSpaces4';
 class Bio extends SoftwareDeveloper {
   name     = 'Harsh Gupta';
   title    = 'Software Development Engineer';
-  company  = 'Crewscale (Builder.ai | Beanbag.ai)';
+  Most recent company  = 'Crewscale (Builder.ai | Beanbag.ai)';
   email    = 'harshworks2401@gmail.com';
   website  = 'tabsoverspaces4.github.io';
   education = {
